@@ -1,0 +1,7 @@
+# Data & secrets — never commit these
+data/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
